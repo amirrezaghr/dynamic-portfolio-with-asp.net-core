@@ -1,0 +1,95 @@
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.deps.json
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\ref\Resume.Infra.IoC.dll
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.dll
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.dll
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.AssemblyReference.cache
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfoInputs.cache
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfo.cs
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CopyComplete
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\ref\Resume.Infra.IoC.dll
+D:\Project\Asp.Net Core\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.deps.json
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\ref\Resume.Infra.IoC.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfo.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CopyComplete
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\ref\Resume.Infra.IoC.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.deps.json
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\ref\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.AssemblyReference.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfoInputs.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CopyComplete
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\ref\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.deps.json
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\ref\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.AssemblyReference.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfoInputs.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CopyComplete
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\ref\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.deps.json
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\ref\Resume.Infra.IoC.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Application.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Domain.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\bin\Debug\net5.0\Resume.Infra.Data.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.AssemblyReference.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfoInputs.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.AssemblyInfo.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CoreCompileInputs.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.csproj.CopyComplete
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\ref\Resume.Infra.IoC.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Infra.IoC\obj\Debug\net5.0\Resume.Infra.IoC.pdb

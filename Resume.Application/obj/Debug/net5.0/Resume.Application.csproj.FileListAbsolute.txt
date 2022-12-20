@@ -1,0 +1,85 @@
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.deps.json
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.dll
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\ref\Resume.Application.dll
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.dll
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.AssemblyReference.cache
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfoInputs.cache
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfo.cs
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CoreCompileInputs.cache
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CopyComplete
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.dll
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\ref\Resume.Application.dll
+D:\Project\Asp.Net Core\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.deps.json
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\ref\Resume.Application.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.AssemblyReference.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfoInputs.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfo.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CopyComplete
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\ref\Resume.Application.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.AssemblyReference.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfoInputs.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CoreCompileInputs.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\ref\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.deps.json
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\ref\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CopyComplete
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.deps.json
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\ref\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.AssemblyReference.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfoInputs.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CoreCompileInputs.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CopyComplete
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\ref\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.deps.json
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\ref\Resume.Application.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.AssemblyReference.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfoInputs.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfo.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CoreCompileInputs.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CopyComplete
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\ref\Resume.Application.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.pdb

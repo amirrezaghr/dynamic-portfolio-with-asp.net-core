@@ -1,0 +1,653 @@
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\appsettings.json
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.exe
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.deps.json
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.json
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.dev.json
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\ref\Resume.Web.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.AssemblyReference.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfoInputs.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfo.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CoreCompileInputs.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.Manifest.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.xml
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\scopedcss\bundle\Resume.Web.styles.css
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.input.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.output.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorCoreGenerate.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.Views.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CopyComplete
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\ref\Resume.Web.dll
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.pdb
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.genruntimeconfig.cache
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderRefrencesPartial.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterRefrencesPartial.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_PreloaderPartial.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+D:\Project\Asp.Net Core\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_SidebarPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.exe
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.deps.json
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.json
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.dev.json
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\ref\Resume.Web.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.AssemblyReference.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfoInputs.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfo.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CoreCompileInputs.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.Manifest.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.xml
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\scopedcss\bundle\Resume.Web.styles.css
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.input.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.output.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorCoreGenerate.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterRefrencesPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderRefrencesPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_PreloaderPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_SidebarPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.Views.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CopyComplete
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\ref\Resume.Web.dll
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.pdb
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.genruntimeconfig.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_ThingIDoPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.AssemblyReference.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfoInputs.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CoreCompileInputs.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\ref\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\appsettings.json
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.exe
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.deps.json
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.json
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.dev.json
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\ref\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.Manifest.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.xml
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\scopedcss\bundle\Resume.Web.styles.css
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.input.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.output.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorCoreGenerate.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_ThingIDoPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterRefrencesPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderRefrencesPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_PreloaderPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_SidebarPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cache
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.Views.pdb
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CopyComplete
+D:\Tutorial\Create By Me\Resume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.genruntimeconfig.cache
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_CustomerFeedbackPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_CustomerLogoPartial.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\Index.cshtml.g.cs
+C:\Users\Mehrzad\Desktop\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\_EducationPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\appsettings.json
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.exe
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.deps.json
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.json
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.dev.json
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ref\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\AngleSharp.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\GoogleReCaptcha.V3.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.AssemblyReference.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfoInputs.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CoreCompileInputs.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.Manifest.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.xml
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\scopedcss\bundle\Resume.Web.styles.css
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.input.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.output.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorCoreGenerate.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_CustomerFeedbackPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_CustomerLogoPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_ThingIDoPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Portfolio\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\_EducationPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\_ExperiencesPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\_SkillsPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\SideBar\SideBar.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_CaptchaScriptPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterRefrencesPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderRefrencesPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_PreloaderPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.Views.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CopyComplete
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\ref\Resume.Web.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.pdb
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.genruntimeconfig.cache
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminFooterRefrencesPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminHeaderRefrencesPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminHeaderPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminSidebarPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_MessagePartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\ThingIDo\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\ThingIDo\_ThingIDoFormModalPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ModalsPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\_EducationFormModalPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerFeedback\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerFeedback\_CustomerFeedbackFormModalPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\_SkillFormModalPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\PortfolioCategory\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\PortfolioCategory\_PortfolioCategorFormModalPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Portfolio\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Portfolio\_PortfolioFormModalPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Information\_InformationFormModalPartial.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Information\Index.cshtml.g.cs
+D:\Tutorial\Create By Me\Resume\Documents\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Message\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\appsettings.json
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.exe
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.deps.json
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.json
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.runtimeconfig.dev.json
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ref\Resume.Web.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Web.Views.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\AngleSharp.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\AngleSharp.Css.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\GoogleReCaptcha.V3.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\HtmlSanitizer.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Humanizer.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Application.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.Data.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Infra.IoC.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\bin\Debug\net5.0\Resume.Domain.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.AssemblyReference.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfoInputs.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.AssemblyInfo.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CoreCompileInputs.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorAssemblyInfo.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.Manifest.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\staticwebassets\Resume.Web.StaticWebAssets.xml
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\scopedcss\bundle\Resume.Web.styles.css
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.input.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.TagHelpers.output.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorCoreGenerate.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerFeedback\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerFeedback\_CustomerFeedbackFormModalPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Education\_EducationFormModalPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Information\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Information\_InformationFormModalPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Message\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\PortfolioCategory\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\PortfolioCategory\_PortfolioCategorFormModalPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Portfolio\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Portfolio\_PortfolioFormModalPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminFooterRefrencesPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminHeaderPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminHeaderRefrencesPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminSidebarPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_MessagePartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ModalsPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Skill\_SkillFormModalPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\ThingIDo\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\ThingIDo\_ThingIDoFormModalPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_CustomerFeedbackPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_CustomerLogoPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_ThingIDoPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Portfolio\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\Index.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\_EducationPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\_ExperiencesPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Resume\_SkillsPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\SideBar\SideBar.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_CaptchaScriptPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterRefrencesPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderRefrencesPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_PreloaderPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cache
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.RazorTargetAssemblyInfo.cs
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.Views.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.csproj.CopyComplete
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\ref\Resume.Web.dll
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.pdb
+E:\47_Resume_Akhundi\47_Resume_Akhundi\47_Resume_Akhundi_Attach\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.genruntimeconfig.cache

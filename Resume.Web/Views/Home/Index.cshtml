@@ -1,0 +1,31 @@
+﻿@model Resume.Domain.ViewModels.Page.IndexPageViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!-- About -->
+<div class="section mt-0">
+    <h1 class="title title--h1 title__separate">درمورد من</h1>
+    <div class="pt-2 pt-sm-3">
+        <p>درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست درباره من اینجاست </p>
+        <p class="mb-0">ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست ادامش اینجاست </p>
+    </div>
+</div>
+
+@if (Model.ThingIDoList != null && Model.ThingIDoList.Any())
+{
+    <partial name="_ThingIDoPartial" model="@Model.ThingIDoList" />
+}
+
+
+@if (Model.CustomerFeedbakcList != null && Model.CustomerFeedbakcList.Any())
+{
+    <partial name="_CustomerFeedbackPartial" model="@Model.CustomerFeedbakcList" />
+}
+
+
+@if (Model.CustomerLogoList != null && Model.CustomerLogoList.Any())
+{
+    <partial name="_CustomerLogoPartial" model="@Model.CustomerLogoList" />
+}
